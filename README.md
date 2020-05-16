@@ -1,2 +1,2 @@
 # RealEstatePricePredictor
-Predicts prices using ML model
+Predicts prices of houses using ML model
